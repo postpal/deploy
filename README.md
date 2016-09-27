@@ -1,4 +1,4 @@
-#Clean Blog by Start Bootstrap - Jekyll Version used by Papo:
+#Clean Blog by Start Bootstrap - Jekyll Version used by Papo:master or gh?
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
