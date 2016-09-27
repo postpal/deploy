@@ -1,12 +1,12 @@
 # Site settings
-title: Clean Blog
+title: Marketing Power For All
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+email: dklongley@postpal.com
+description: "Your website under your control"
+baseurl: "/"
+url: "https://dev.postpal.com.com"
 twitter_username: SBootstrap
-github_username:  davidtmiller
+github_username:  dindinet
 facebook_username:  IronSummitMedia
 
 # Build settings
