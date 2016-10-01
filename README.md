@@ -1,5 +1,7 @@
 #Clean Blog by Start Bootstrap - Jekyll Version used by Papo:master or gh?
 
+![snow](https://lh3.googleusercontent.com/f66DG0QJAr4NC_ZgxG2W4qYUtQ5UA_MVhsW4xakWw3Dyv9aLfFPYUFSv-EjNw3TtUYzMQDmMeM36BZPAL90TWGGGeDI3zaEuo2VWqsgHJfPnbP7M3QNA33qgpiWhUmaYsBSa7tB9YVBNJjL6qneimibigVBSsdtc3C1gSUmiUE7DZoIHMn5dqNZefMP9k9ZHQLEwS2lCpfKjfgXwUQP6i1TZBJcHKWOFcLtjxlOoziNwosVLrOO0AulWHcc5sfQ5cP2QVPdgncgIgXTy9pUjV3JDTy9yLHpDwEyojF32sCqMY65BF3Xh00mkNG8TTIuH1KvLVVUVy5jCPA8pG9YUMWgw3gfVp_lmJLRUi0uAkb16b1HBakOzgZtTwqMzITsjmgXRNkMcmYgXKCBaTElbseGJkWPGAPQeyrc5VYNu2f3biKiuTogpOw5745JFvuE6kc3VwKNdPRZzCULvAV6y1gFZon2a_4k4BMSCR-Rlu7ltskZCitnRgog2FLlWbnDAH8KoJR4eOHtqA8EOAlbni-Pq5Joi2Og2pxkLb88EGRexyLseKWmcaXXGei47YGwp0S6J8KClO-Dl5W8OGmLPc0g8iMcQ2otMok1hFaT3UWJUCYF0=w1200-no)
+
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
 ###[View Live Demo &rarr;](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/)
