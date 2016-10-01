@@ -1,6 +1,6 @@
 #Clean Blog by Start Bootstrap - Jekyll Version used by Papo:master or gh?
 
-![snow](https://lh3.googleusercontent.com/cQO165-LOPPfoNI-bW4eUt-BOl7b0CtL8zBgcrL5Y5BghofURFvrQ5fLrhTmrnUq0P3fdAHVTg=w800-p-rw)
+![snow](https://lh3.googleusercontent.com/cQO165-LOPPfoNI-bW4eUt-BOl7b0CtL8zBgcrL5Y5BghofURFvrQ5fLrhTmrnUq0P3fdAHVTg=w800-rw)
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
