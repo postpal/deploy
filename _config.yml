@@ -11,6 +11,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 10
+gems:
+  - jekyll-feed
 exclude:
   - Gruntfile.js
   - less
