@@ -2,7 +2,7 @@
 layout: post
 title: 'Every business owner, business manager or entrepreneur at the very least should be able to launch and manage a website'
 date: 2014-09-18 12:00:00
-author: Start Bootstrap
+author: post pal in chief
 header-img: img/post-bg-05.jpg
 ---
 
