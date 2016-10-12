@@ -4,7 +4,7 @@ title: True success in the digital economy comes with knowledge of the tools
 subtitle: Manage your digital presence from a position of strength
 date: 2014-09-24 12:00:00
 author: Start Bootstrap
-header-img: img/post-bg-06.jpg
+header-img: 'https://static.pexels.com/photos/71131/peacock-bird-feather-close-71131.jpeg'
 ---
 
 
