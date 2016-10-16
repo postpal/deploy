@@ -1,5 +1,1 @@
 gem 'jekyll-feed'
-
-if ENV["JEKYLL_VERSION"]
-  gem "jekyll", "~> #{ENV["JEKYLL_VERSION"]}"
-end
