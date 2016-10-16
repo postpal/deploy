@@ -1,6 +1,6 @@
 ---
 layout: post
-title: True success in the digital economy comes with knowledge of the tools
+title: Marketing is successful when you understand your customers and master the tools to help you  influence them for good
 subtitle: Manage your digital presence from a position of strength
 date: 2014-09-24 12:00:00
 author: Start Bootstrap
